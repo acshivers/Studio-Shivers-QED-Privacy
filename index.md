@@ -16,6 +16,7 @@ Arturo Crispin Shivers PL
 P.IVA: 03881300549
 REA: 373518
 Sede: Gubbio, Umbria, Italia
+Sede Statunitense: Concord, California, USA
 Email: [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 Sito web: [www.studioshiversqed.com](https://www.studioshiversqed.com)
 
@@ -139,12 +140,12 @@ Ci riserviamo il diritto di aggiornare questa informativa in qualsiasi momento. 
 
 ---
 
-## 12. Contatti
+## 12. Contatti per Notizie Legali
 
 Per qualsiasi domanda relativa a questa informativa o al trattamento dei Suoi dati:
 
 **Email:** [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
-**Indirizzo:** via dell'Assino 210, 06024 Gubbio PG, Umbria, Italia
+**Indirizzo:** via dell'Assino 210, 06024 Gubbio PG, Umbria, Italia o nell'USA, 3206 Meadowbrook Dr, Concord, CA, 94519
 
 ---
 
@@ -169,6 +170,7 @@ Arturo Crispin Shivers PL
 VAT Number: 03881300549
 REA: 373518
 Registered office: Gubbio, Umbria, Italy
+HQ U.S.: Concord, California, United States of America
 Email: [privacy@studioshiversqed.com](mailto:privary@studioshiversqed.com)
 Website: [www.studioshiversqed.com](https://www.studioshiversqed.com)
 
@@ -292,15 +294,15 @@ We reserve the right to update this policy at any time. Changes will be publishe
 
 ---
 
-## 12. Contact
+## 12. Contact for Legal Notice
 
 For any questions regarding this policy or the processing of your personal data:
 
 **Email:** [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
-**Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy
+**Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy or 3206 Meadowbrook Dr, Concord, CA, 94519
 
 ---
 
 *This document is a base template and does not constitute legal advice. Review by a qualified lawyer or privacy consultant is recommended before publication, particularly regarding: appointment of a DPO (if applicable), records of processing activities, Data Protection Impact Assessments (DPIAs) if needed, and specific clauses for transfers outside the EU.*
 
-### Copyright © 2026 Shivers Arturo Crispin PL, P.Iva EU IT03881300549 | n.REA PG373518 - Tutti i diritti riservati. [www.studioshiversqed.com](https://www.studioshiversqed.com) Updated: 18 Sett. 2026
+### Copyright © 2026 Shivers Arturo Crispin PL, P.Iva EU IT03881300549 | n.REA PG373518 - Tutti i diritti riservati. [www.studioshiversqed.com](https://www.studioshiversqed.com) Updated: 05 Ott. 2026
