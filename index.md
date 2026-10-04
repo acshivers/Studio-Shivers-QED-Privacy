@@ -15,13 +15,9 @@ Il Titolare del trattamento dei dati personali è:
 Arturo Crispin Shivers PL
 
 P.IVA: 03881300549
-
 REA: 373518
-
 Sede: Gubbio, Umbria, Italia
-
 Sede Statunitense: Concord, California, USA
-
 Email: [privacy@studioshiversqed.com](mailto:privacy@studioshiversqed.com)
 
 Sito web: [www.studioshiversqed.com](https://www.studioshiversqed.com)
