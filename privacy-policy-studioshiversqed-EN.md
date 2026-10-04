@@ -146,6 +146,7 @@ For any questions regarding this policy or the processing of your personal data:
 
 **Email:** [privacy@studioshiversqed.com]
 **Italy Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy
+
 **U.S. Address:** 3206 Meadowbrook Dr, Concord, CA, 94519
 
 ---
