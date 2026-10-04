@@ -16,6 +16,7 @@ Arturo Crispin Shivers PL
 VAT Number: 03881300549
 REA: 373518
 Registered office: Gubbio, Umbria, Italy
+U.S. HQ: Concord, California, 94519
 Email: [privacy@studioshiversqed.com]
 Website: www.studioshiversqed.com
 
@@ -139,12 +140,13 @@ We reserve the right to update this policy at any time. Changes will be publishe
 
 ---
 
-## 12. Contact
+## 12. Contact for Due Process
 
 For any questions regarding this policy or the processing of your personal data:
 
 **Email:** [privacy@studioshiversqed.com]
-**Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy
+**Italy Address:** vai dell'Assino 210, 06024 Gubbio PG, Umbria, Italy
+**U.S. Address:** 3206 Meadowbrook Dr, Concord, CA, 94519
 
 ---
 
