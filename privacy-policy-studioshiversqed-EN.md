@@ -140,7 +140,7 @@ We reserve the right to update this policy at any time. Changes will be publishe
 
 ---
 
-## 12. Contact for Due Process
+## 12. Contact for Due Process Service
 
 For any questions regarding this policy or the processing of your personal data:
 
