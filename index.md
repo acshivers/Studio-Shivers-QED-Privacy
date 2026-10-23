@@ -314,4 +314,4 @@ For any questions regarding this policy or the processing of your personal data:
 
 *This document is a base template and does not constitute legal advice. Review by a qualified lawyer or privacy consultant is recommended before publication, particularly regarding: appointment of a DPO (if applicable), records of processing activities, Data Protection Impact Assessments (DPIAs) if needed, and specific clauses for transfers outside the EU.*
 
-### Copyright © 2026 Shivers Arturo Crispin PL, P.Iva EU IT03881300549 | n.REA PG373518 - Tutti i diritti riservati. [www.studioshiversqed.com](https://www.studioshiversqed.com) Updated: 05 Ott. 2026
+### Copyright © 2026 Shivers Arturo Crispin PL, P.Iva EU IT03881300549 | n.REA PG373518 - Tutti i diritti riservati. [www.studioshiversqed.com](https://www.studioshiversqed.com) Updated: 23 Ott. 2026
