@@ -14,6 +14,8 @@ Il Titolare del trattamento dei dati personali è:
 **Studio Shivers QED**
 Arturo Crispin Shivers PL
 
+FINCEN ID: 300000786778
+
 P.IVA: 03881300549
 
 REA: 373518
