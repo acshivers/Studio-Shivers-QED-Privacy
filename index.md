@@ -175,6 +175,7 @@ The Data Controller for the processing of personal data is:
 
 **Studio Shivers QED**
 Arturo Crispin Shivers PL
+FINCEN ID: 300000786778
 VAT Number: 03881300549
 REA: 373518
 Registered office: Gubbio, Umbria, Italy
